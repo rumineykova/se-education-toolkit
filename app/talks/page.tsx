@@ -59,7 +59,7 @@ const TalksPage = () => {
                 <h3 className="font-semibold text-gray-700 mb-2">Key Topics</h3>
                 <ul className="list-disc list-inside text-gray-600 space-y-1">
                   <li>State of the art: AI in SE industry and education</li>
-                  <li>The "User Story Wizard Game" for teaching requirements engineering</li>
+                  <li>The &quot;User Story Wizard Game&quot; for teaching requirements engineering</li>
                   <li>Platform comparison: Insights from experiments with different LLMs</li>
                   <li>Student feedback on the Requirements Engineering Detective Game</li>
                   <li>Persona-based prompt engineering for educational contexts</li>
